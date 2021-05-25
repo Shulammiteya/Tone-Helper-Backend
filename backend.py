@@ -8,9 +8,7 @@ import io
 import numpy as np
 
 from base64 import b64encode
-
 from flask import Flask, jsonify, request,  make_response
-
 from google.cloud import speech
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./My First Project-bbba15774894.json"
