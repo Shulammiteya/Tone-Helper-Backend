@@ -1,0 +1,16 @@
+Flask==1.0.2
+pydub==0.24.1
+SoundFile==0.10.3.post1
+pyworld==0.2.12
+numpy==1.20.1
+protobuf==3.17.1
+cffi==1.14.0
+google-api-core==1.26.3
+google-auth==1.30.0
+google-cloud-core==1.6.0
+google-cloud-speech==2.3.0
+google-cloud-storage==1.38.0
+google-crc32c==1.1.2
+google-resumable-media==1.2.0
+googleapis-common-protos==1.53.0
+grpcio==1.37.1
