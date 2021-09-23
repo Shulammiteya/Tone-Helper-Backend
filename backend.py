@@ -11,7 +11,7 @@ from base64 import b64encode
 from flask import Flask, jsonify, request,  make_response
 from google.cloud import speech
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./My First Project-bbba15774894.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./sample.json"
 
 app = Flask(__name__, static_url_path="")
 
